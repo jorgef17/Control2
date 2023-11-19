@@ -13,7 +13,7 @@ Script para simular la respuesta de un sistema de control de pitch de una aerona
 ### `ballandbeam.py`
 Código de simulación para el sistema Ball & Beam, un problema clásico de control en el que una pelota se balancea sobre una viga y debe ser posicionada en un punto específico.
 
-### `cruize_Control.py`
+### `cruise_Control.py`
 Implementa un controlador para el sistema de control de velocidad crucero de un vehículo, manteniendo la velocidad estable frente a distintas perturbaciones.
 
 ### `pidadaptive.py`
