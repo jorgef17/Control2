@@ -5,7 +5,7 @@ Este repositorio contiene varios scripts de Python diseñados para simular y ana
 ## Archivos en el Repositorio
 
 ### `Simupy/`
-Directorio que contiene ejemplos y utilidades para la simulación de sistemas dinámicos utilizando la biblioteca SimuPy.
+Directorio que contiene un ejemplo y utilidades para la simulación de sistemas dinámicos utilizando la biblioteca SimuPy.
 
 ### `Aircraft_pitch.py`
 Script para simular la respuesta de un sistema de control de pitch de una aeronave. Utiliza técnicas de control clásicas para mantener un ángulo de pitch deseado.
